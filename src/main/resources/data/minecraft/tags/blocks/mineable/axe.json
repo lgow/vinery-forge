@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "vinery:red_grape_bush",
+    "vinery:white_grape_bush",
+    "vinery:grapevine_stem",
+    "vinery:cherry_beam",
+    "vinery:stackable_log",
+    "vinery:fermentation_barrel",
+    "vinery:cherry_floorboard",
+    "vinery:red_grape_crate",
+    "vinery:white_grape_crate",
+    "vinery:flower_box",
+    "vinery:wine_press",
+    "vinery:wine_box",
+    "vinery:nine_bottle_storage",
+    "vinery:four_bottle_storage",
+    "vinery:cabinet",
+    "vinery:shelf",
+    "vinery:drawer"
+  ]
+}

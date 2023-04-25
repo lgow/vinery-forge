@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#_#",
+    "_O_",
+    "#_#"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "_": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "O": {
+      "item": "minecraft:oak_trapdoor"
+    }
+  },
+  "result": {
+    "item": "vinery:nine_bottle_storage"
+  }
+}

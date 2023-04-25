@@ -1,0 +1,8 @@
+{
+	"render_type": "translucent",
+	"credit": "Made by Satisfy",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "vinery:block/window_mid"
+	}
+}

@@ -1,0 +1,30 @@
+{
+  "feature": "vinery:old_cherry_tree",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "Name": "vinery:old_cherry_sapling"
+        }
+      }
+    },
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "minecraft:weighted_list",
+        "distribution": [
+          {
+            "weight": 9,
+            "data": 0
+          },
+          {
+            "weight": 1,
+            "data": 1
+          }
+        ]
+      }
+    }
+  ]
+}

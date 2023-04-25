@@ -1,0 +1,49 @@
+{
+  "block.cooking_pot.juice_boiling": {
+    "subtitle": "subtitles.vinery.juice_boiling",
+    "sounds": [
+      "vinery:block/cooking_pot/juice_boiling"
+    ]
+  },
+  "block.kitchen_sink.faucet": {
+    "subtitle": "subtitles.vinery.faucet",
+    "sounds": [
+      "vinery:block/kitchen_sink/faucet1",
+      "vinery:block/kitchen_sink/faucet2",
+      "vinery:block/kitchen_sink/faucet3"
+    ]
+  },
+  "block.grapevine_pot.squeeze": {
+    "subtitle": "subtitles.vinery.squeeze",
+    "sounds": [
+      "vinery:block/grapevine_pot/squeeze1",
+      "vinery:block/grapevine_pot/squeeze2",
+      "vinery:block/grapevine_pot/squeeze3",
+      "vinery:block/grapevine_pot/squeeze4"
+    ]
+  },
+  "block.cabinet.open": {
+    "subtitle": "subtitles.vinery.rack",
+    "sounds": [
+      "vinery:block/storage/cabinet_open"
+    ]
+  },
+  "block.drawer.open": {
+    "subtitle": "subtitles.vinery.rack",
+    "sounds": [
+      "vinery:block/storage/drawer_open"
+    ]
+  },
+  "block.cabinet.close": {
+  "subtitle": "subtitles.vinery.rack",
+  "sounds": [
+  "vinery:block/storage/cabinet_close"
+    ]
+  },
+  "block.drawer.close": {
+  "subtitle": "subtitles.vinery.rack",
+  "sounds": [
+  "vinery:block/storage/drawer_close"
+    ]
+  }
+}

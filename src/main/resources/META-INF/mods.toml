@@ -1,0 +1,33 @@
+modLoader = "javafml"
+
+loaderVersion = "[43,)"
+
+license = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+[[mods]]
+
+modId = "vinery"
+
+version = "${file.jarVersion}" #mandatory
+
+displayName = "Vinery" #mandatory
+
+authors = "Satisfyu"
+credits = "CristelKnight, lgow"
+description = '''
+Vinery contains nearly everything needed for not only creating wine but also for building up your own vinery.
+'''
+
+[[dependencies.vinery]]
+modId = "forge"
+mandatory = true
+versionRange = "[43,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.vinery]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.19.2,1.20)"
+ordering = "NONE"
+side = "BOTH"

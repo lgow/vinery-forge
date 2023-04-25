@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "satisfyu.vinery.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "vinery.refmap.json",
+  "mixins": [
+    "AxeItemAccess",
+    "BlockEntityTypeMixin",
+    "BlockMixin",
+    "BoneMealItemMixin",
+    "FoxEntityEatSweetBerriesGoalMixin",
+    "WanderingTraderManagerMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
